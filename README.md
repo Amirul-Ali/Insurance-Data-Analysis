@@ -59,21 +59,27 @@ Claims ratio and trend over time
 Risk assessment that helps insurance companies reduce losses
 
 ## 📌 How to Use the Report
+Step1: Open Insurance Data Analysis.pbix using Power BI Desktop.
 
-Open Insurance Data Analysis.pbix using Power BI Desktop.
-Navigate through the dashboards using tabs at the bottom
-Use slicers to filter data by:
-Age
-Gender
-Policy type
-Region
-Claim status
+Step2:Navigate through the dashboards using tabs at the bottom
+
+Step3: Use slicers to filter data by:
+
+1.1 Age
+
+1.2 Gender
+
+1.3 Policy type
+
+1.4 Region
+
+1.5 Claim status
 
 Explore interactive charts for deeper insights.
 
 ## 🚀 Future Improvements
 
-Predictive analytics using ML (risk prediction)
-Integration with SQL or cloud data sources
-Real-time dashboard using Power BI Service
-Automated alerts for high-risk customers
+1. Predictive analytics using ML (risk prediction)
+2. Integration with SQL or cloud data sources
+3. Real-time dashboard using Power BI Service
+4. Automated alerts for high-risk customers
