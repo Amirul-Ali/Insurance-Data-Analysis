@@ -5,7 +5,7 @@ This project focuses on analyzing insurance-related data to uncover valuable ins
 
 The report visualizes key metrics, identifies trends, and highlights actionable insights that can improve customer segmentation, reduce risks, and enhance overall business performance.
 
-🎯 Objectives
+## 🎯 Objectives
 
 Understand customer profiles and analyze purchasing behavior
 
@@ -17,7 +17,7 @@ Build meaningful dashboards for decision-making
 
 Improve business strategy with clear visual insights
 
-📊 Key Features
+## 📊 Key Features
 1. Customer Demographics Analysis
 
 Age distribution
