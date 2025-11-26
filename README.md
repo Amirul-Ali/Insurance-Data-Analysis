@@ -56,7 +56,7 @@ Drill-through analysis
 
 Filters for deep dive exploration
 
-🛠 Tools & Technologies
+## 🛠 Tools & Technologies
 
 Power BI Desktop (.pbix)
 
@@ -67,3 +67,45 @@ Power Query Editor
 Data Modeling
 
 Relationships, DAX measures, calculated columns
+
+## 📈 Insights You Can Expect
+
+Which customer groups have the highest likelihood of claims
+
+How policy premiums vary by demographic
+
+Which insurance plans are most profitable
+
+Claims ratio and trend over time
+
+Risk assessment that helps insurance companies reduce losses
+
+## 📌 How to Use the Report
+
+Open Insurance Data Analysis.pbix using Power BI Desktop.
+
+Navigate through the dashboards using tabs at the bottom.
+
+Use slicers to filter data by:
+
+Age
+
+Gender
+
+Policy type
+
+Region
+
+Claim status
+
+Explore interactive charts for deeper insights.
+
+## 🚀 Future Improvements
+
+Predictive analytics using ML (risk prediction)
+
+Integration with SQL or cloud data sources
+
+Real-time dashboard using Power BI Service
+
+Automated alerts for high-risk customers
